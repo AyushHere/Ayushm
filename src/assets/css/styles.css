@@ -4225,6 +4225,14 @@ img.u-pull-left {
     .ss-copyright span {
         display : block;
     }
+    .plans{
+      flex-direction: column;
+
+    }
+    .plan{
+
+      margin-bottom: 20px;
+    }
 
     .ss-copyright span::after {
         display : none;
@@ -4239,5 +4247,8 @@ img.u-pull-left {
 @media screen and (max-width: 400px) {
     .ss-go-top {
         right : 6vw;
+    }
+    .plans{
+      flex-direction: column;
     }
 }
