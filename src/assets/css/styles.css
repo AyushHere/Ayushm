@@ -3415,8 +3415,9 @@ img.u-pull-left {
 }
 
 .about-info__text {
-    padding     : var(--vspace-3_5) 10vw var(--vspace-2) 0;
-    margin-left : -4rem;
+    /* padding     : var(--vspace-3_5) 10vw var(--vspace-2) 0; */
+    padding     : var(--vspace-3_5) 3vw 0;
+    margin-left : 4rem;
 }
 
 .about-info__text .text-pretitle {
