@@ -1,27 +1,32 @@
-# Ayushm
-
+# **AyushM – Personal Portfolio**
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
-## Development server
+**AyushM** is my personal portfolio website — built to showcase my full-stack development skills and technologies.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🌟 **What it shows (Skills & Tech Stack)**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+I work with / am comfortable using:
 
-## Build
+* **Frontend / Web**: Angular, HTML, CSS, TypeScript, JavaScript
+* **Backend / APIs**: .NET Core WebAPIs, Node.js
+* **Databases & Data Storage**: MongoDB, SQL
+* **Cloud / Other Services**: Azure, AI-related tools (where applicable)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 💼 **Purpose & Functionality**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This portfolio website acts as my **digital resume & showcase**:
 
-## Running end-to-end tests
+* Demonstrates my full-stack capabilities (frontend + backend + database + cloud)
+* Allows potential collaborators or employers to view my profile, skills, projects, and contact links
+* Provides a clean, professional UI summarizing my work, background and technologies
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🔗 **Live Demo**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+You can view the live version of my portfolio here: **[ayushmalviya.vercel.app](https://ayushmalviya.vercel.app/)**
+
